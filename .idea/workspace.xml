@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a05aaac8-b14a-46dd-b92e-3f7c4906fadd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@dbhost.students.cs.ubc.ca" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@dbhost.students.cs.ubc.ca" type="feb32156:DbDataSourceImpl" />
+        <item name="ORA_ABITA15: schema" type="3abd1b6a:OraImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="168e96df-ced8-4533-8c1e-e527ea0dd889">
+        <node key="ORA_ABITA15" />
+      </node>
+    </checked>
+    <expanded>
+      <node key="168e96df-ced8-4533-8c1e-e527ea0dd889" />
+    </expanded>
+  </component>
+  <component name="ProjectId" id="20q3JorFTrtaHCZijnZLtiieAxn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bookbiz.sql" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager">
+    <configuration name="try.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CPSC304-JavaDemo/CPSC304-JavaDemo/src/ca/ubc/cs304/sql/scripts/try.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.try.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@dbhost.students.cs.ubc.ca: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@dbhost.students.cs.ubc.ca: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@250625d6" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@dbhost.students.cs.ubc.ca: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@14e33033" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="@dbhost.students.cs.ubc.ca: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@46c75706" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a05aaac8-b14a-46dd-b92e-3f7c4906fadd" name="Default Changelist" comment="" />
+      <created>1636758220897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636758220897</updated>
+      <workItem from="1636758224113" duration="2004000" />
+      <workItem from="1637883016807" duration="178000" />
+      <workItem from="1637906134632" duration="4982000" />
+      <workItem from="1637967516971" duration="8055000" />
+      <workItem from="1638050659907" duration="6753000" />
+      <workItem from="1638059141610" duration="2017000" />
+      <workItem from="1638132061881" duration="2231000" />
+      <workItem from="1638136519365" duration="3972000" />
+      <workItem from="1638150423744" duration="2871000" />
+      <workItem from="1638160469501" duration="4207000" />
+      <workItem from="1638208269329" duration="269000" />
+      <workItem from="1638493822478" duration="3949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638150368650">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="442" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1638136479627" />
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1638150368650" />
+    <state x="2362" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1536.864/0.0.1920.1080@1920.0.1536.864" timestamp="1637907453016" />
+    <state x="711" y="169" key="ExecutionTargetDialog" timestamp="1638498557795">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="569" y="135" key="ExecutionTargetDialog/0.0.1536.864@0.0.1536.864" timestamp="1638494443493" />
+    <state x="711" y="169" key="ExecutionTargetDialog/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1638498557795" />
+    <state x="2489" y="135" key="ExecutionTargetDialog/1920.0.1536.864/0.0.1920.1080@1920.0.1536.864" timestamp="1638496521641" />
+    <state x="592" y="236" key="FileChooserDialogImpl" timestamp="1638494369010">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="592" y="236" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1638494369010" />
+    <state x="740" y="295" key="FileChooserDialogImpl/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1636758235822" />
+    <state x="2512" y="236" key="FileChooserDialogImpl/1920.0.1536.864/0.0.1920.1080@1920.0.1536.864" timestamp="1637906151341" />
+    <state width="1293" height="156" key="GridCell.Tab.0.bottom" timestamp="1638150992637">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1024" height="156" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1638140332906" />
+    <state width="1293" height="156" key="GridCell.Tab.0.bottom/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1638150992637" />
+    <state width="1293" height="156" key="GridCell.Tab.0.center" timestamp="1638150992637">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1024" height="156" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1638140332906" />
+    <state width="1293" height="156" key="GridCell.Tab.0.center/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1638150992637" />
+    <state width="1293" height="156" key="GridCell.Tab.0.left" timestamp="1638150992637">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1024" height="156" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1638140332906" />
+    <state width="1293" height="156" key="GridCell.Tab.0.left/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1638150992637" />
+    <state width="1293" height="156" key="GridCell.Tab.0.right" timestamp="1638150992637">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1024" height="156" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1638140332906" />
+    <state width="1293" height="156" key="GridCell.Tab.0.right/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1638150992637" />
+    <state width="224" height="457" key="HiddenNamespacesPopup" timestamp="1636759423080">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="224" height="457" key="HiddenNamespacesPopup/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1636759423080" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1638150293702">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1638150293702" />
+    <state x="2269" y="87" key="com.intellij.database.dbimport.ImportDialog" timestamp="1638496881582">
+      <screen x="1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="87" key="com.intellij.database.dbimport.ImportDialog/0.0.1536.864@0.0.1536.864" timestamp="1637953670264" />
+    <state x="2269" y="87" key="com.intellij.database.dbimport.ImportDialog/1920.0.1536.864/0.0.1920.1080@1920.0.1536.864" timestamp="1638496881582" />
+    <state x="581" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1638208275511">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1638137071080" />
+    <state x="581" y="320" key="com.intellij.ide.util.TipDialog/1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1638208275511" />
+    <state x="209" y="53" key="new project wizard" timestamp="1637953228864">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1637953228864" />
+  </component>
+</project>
